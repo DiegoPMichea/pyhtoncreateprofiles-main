@@ -1,7 +1,6 @@
 import unittest
 import csv
 import json
-import os
 
 class TestCsvToJson(unittest.TestCase):
 
